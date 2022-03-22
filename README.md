@@ -19,6 +19,13 @@ I am a data scientist and full-stack engineer passionate about neurotechnology ð
 
 ---
 
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxhoheiser/)
+[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://maxhoheiser.com/)
+
+</div>
+
 <br>
 <br>
 <h3 align="center">Languages and Tools:</h3>
