@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxhoheiser/)
+[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://maxhoheiser.com/)
+
+</div>
+
 <h3 align="center">Neurotechnology 🧠 | Data Science 📈 | Web3/Blockchain 🚀</h3>
 <br>
 I am a data scientist and full-stack engineer passionate about neurotechnology 🧠, entrepreneurship 🦄, web3 / blockchain 🚀 and health tech 👩‍⚕️.
@@ -14,21 +21,7 @@ I am a data scientist and full-stack engineer passionate about neurotechnology �
 
 <br>
 <br>
-
-<h3 align="center">Connect with me:</h3>
-
----
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maxhoheiser/)
-[![Blog Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://maxhoheiser.com/)
-
-</div>
-
-<br>
-<br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools I use:</h3>
 
 ---
 
