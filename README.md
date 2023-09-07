@@ -9,13 +9,15 @@
 
 <h3 align="center">Neurotechnology 🧠 | Data Science 📈 </h3>
 <br>
-I am a data scientist and full-stack engineer passionate about neurotechnology 🧠, entrepreneurship 🦄, web3 / blockchain 🚀 and health tech 👩‍⚕️.
 
-- I want to help to push the forefront of technological evolution in neuroscience by providing better tooling for producing and analyzing data.
+I'm an engineer with experience in hardware, frontend, and backend. My passion lies in neurotechnology 🧠, entrepreneurship 🦄, and health tech 👩‍⚕️.
 
-- I have more than three years of experience in data engineering and neuroscience research projects, both as a scientific researcher and as a founder of traekka.com.
-  I have worked multiple years in web development, and IT transformation, working both with customers in sales and after-sales as well as in engineering.
+- My goal is to advance the forefront of technological evolution in neuroscience by offering improved tools for data production and analysis
 
+- I have more than seven years of experience spanning data engineering, neuroscience research projects, consulting, and software engineering in both industry and academia.
+
+- Additionally, I have co-founded the company traekka.com, and combine  engineering  experience with a robust set of business and leadership skills.
+  
 <br>
 
 > ### My unique strength is a blend of business, entrepreneurship, and engineering.
