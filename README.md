@@ -7,7 +7,7 @@
 
 </div>
 
-<h3 align="center">Neurotechnology 🧠 | Data Science 📈 | Web3/Blockchain 🚀</h3>
+<h3 align="center">Neurotechnology 🧠 | Data Science 📈 </h3>
 <br>
 I am a data scientist and full-stack engineer passionate about neurotechnology 🧠, entrepreneurship 🦄, web3 / blockchain 🚀 and health tech 👩‍⚕️.
 
